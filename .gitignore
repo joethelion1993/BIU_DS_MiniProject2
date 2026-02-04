@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+
+# Data 
+mini_project_2_data/
+*.csv
+
+# Documentation and Notebooks 
+*.pdf
+*.ipynb
+*.pptx
+
+# System Files
+.DS_Store
